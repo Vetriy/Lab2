@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6AmFVfGzwwXeJo16Ti/Ckskxlful7tAyc1a/zfSrEshbNF2eRYjWFbaak4cVfXSVbvnuxWwslbxlpr+EZHpsg==",
+  "success": true,
+  "projectFilePath": "/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/Lab2.csproj",
+  "expectedPackageFiles": [
+    "/Users/viktoria/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

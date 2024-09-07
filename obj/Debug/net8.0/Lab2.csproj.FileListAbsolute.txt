@@ -1,0 +1,17 @@
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Lab2
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/ref/Lab2.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.csproj.AssemblyReference.cache
+/Users/viktoria/Desktop/Учеба/Универ/OOP/Лабораторная2/Lab2/obj/Debug/net8.0/Lab2.csproj.Up2Date
